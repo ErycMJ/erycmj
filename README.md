@@ -7,7 +7,8 @@
 
 <div>
 <a href="https://github.com/ErycMJ">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErycMJ&layout=compact&langs_count=7&theme=dracula"/>![ErycMJ GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErycMJ&show_icons=true&theme=onedark)
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErycMJ&layout=compact&langs_count=7&theme=dracula"/>
+![ErycMJ GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErycMJ&show_icons=true&theme=onedark)
 
 </div>
 
