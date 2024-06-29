@@ -1,9 +1,9 @@
 # Hello Word, sou Eryc Jacinto! 
 ## Bem vindo ao meu perfil GitHub
 
-- 🔭 Atualmente estou trabalhando na empresa Betha Sistemas
-- 🌱 Atualmente estou aprendendo HTML, CSS, JS e Groovy
-- 🏫 Terceira fase em Engenharia de Software
+- 💼 Trabalhando na empresa Betha Sistemas
+- 🏫 Aluno UNISATC
+- 🎓 Quarta fase em Engenharia de Software
 
 <div>
 <a href="https://github.com/ErycMJ">
