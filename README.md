@@ -8,7 +8,8 @@
 <div>
 <a href="https://github.com/ErycMJ">
 <img loading="lazy" height="200px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErycMJ&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=ErycMJ&show_icons=true&theme=onedark"/>
+  <br>
+<img loading="lazy" height="200px" width="300px" src="https://github-readme-stats.vercel.app/api?username=ErycMJ&show_icons=true&theme=onedark"/>
 </div>
 
 ## Contatos:
