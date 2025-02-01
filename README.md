@@ -5,10 +5,10 @@
 - 🎓 Quarta fase em Engenharia de Software
 
 <p align = "center">
-<img loading="lazy" height="5%" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErycMJ&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="5%" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErycMJ&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 <p align = "center">
-<img loading="lazy" height="5%" width="100%" src="https://github-readme-stats.vercel.app/api?username=ErycMJ&show_icons=true&theme=onedark"/>
+<img loading="lazy" height="5%" width="30%" src="https://github-readme-stats.vercel.app/api?username=ErycMJ&show_icons=true&theme=onedark"/>
 </div>
 </p>
 
